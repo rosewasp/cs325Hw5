@@ -1,0 +1,6 @@
+Steps to run "rivals.py"
+1) place your "sample.txt" file in the same folder as "rivals.py"
+2) open terminal
+3) go to the directory with "rivals.py" and "sample.txt"
+4) type: "python3 rivals.py sample.txt" in the command line
+5) the output will print to terminal
