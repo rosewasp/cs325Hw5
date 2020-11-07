@@ -3,4 +3,8 @@ Steps to run "rivals.py"
 2) open terminal
 3) go to the directory with "rivals.py" and "sample.txt"
 4) type: "python3 rivals.py sample.txt" in the command line
+	- Note: if you want to use sample files in current folder
+	- use: "python3 rivals.py possible.txt" (shows a situation when solution is possible)
+	- use: "python3 rivals.py impossible.txt" (shows a situation when solution is impossible)
+	- Note: sample files provided by instructors of CS325-Fall2020
 5) the output will print to terminal
